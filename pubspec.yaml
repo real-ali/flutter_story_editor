@@ -17,7 +17,9 @@ dependencies:
     sdk: flutter
   image_cropper: ^7.1.0
   video_player: ^2.8.6
-  video_trimmer: ^3.0.1
+  video_trimmer:
+    git:
+      url: https://github.com/ahmetbalkan/video_trimmer_new.git
   video_thumbnail: ^0.5.3
   hsv_color_pickers: ^0.3.0
   perfect_freehand: ^2.3.2
